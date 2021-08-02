@@ -13,7 +13,7 @@
 - Create Github and twitter account
 - Use workspace tags.
 - Edit your personal slack profile (display name) to have a single word username.
-- Introduce yourself.
+- Introduce yourself.:scientist:
 - Add a comprehensive readme.md here. :raising_hand:
 - Each person pick one of the 7 programming languages and write a script in the below format:
 "Name:"
