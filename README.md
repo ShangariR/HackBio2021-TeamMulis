@@ -4,7 +4,6 @@
 - 🌱 About: Hackbio Internship is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and      computational biology skills.
 - :desktop_computer: Hackbio official website: https://thehackbio.com/
 - 📫 Contact: contact@hackbio.com
-- follow us on: [![name](http://i.imgur.com/wWzX9uB.png)]
 - :man_technologist: We are a diverse team of awesome 22 members 👩‍💻.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragnapcu&layout=compact)
