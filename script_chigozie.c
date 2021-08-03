@@ -10,7 +10,7 @@ int main(void)
     printf("%s \n", name);
     printf("%s \n", email);
     printf("%s \n", slack_username);
-    printf("%s \n",biostack);
+    printf("%s \n", biostack);
     return 0;
 }
 
