@@ -7,10 +7,10 @@ int main(void)
     char slack_username[80] = "@GozieNkwocha";
     char biostack[100] = "Transcriptomics";
 
-    printf("Name: %s\n", name);
-    printf("Email: %s\n", email);
-    printf("Slack Username: %s\n", slack_username);
-    printf("Biostack: %s\n", biostack);
+    printf(name);
+    printf(email);
+    printf(slack_username);
+    printf(biostack);
     return 0;
 }
 
