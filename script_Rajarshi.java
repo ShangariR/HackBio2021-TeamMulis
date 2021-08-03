@@ -2,7 +2,7 @@
 public class Raj
 {
    
-    public Raj()
+    public void Rajarshi()
     {
        System.out.println("My name is Rajarshi Mondal");
        System.out.println("Email ID: rajarshimondal92@gmail.com");
