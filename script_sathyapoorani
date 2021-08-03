@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main ()
+{
+char name[20];
+char email;
+char slack_username;
+char biostack;
+printf("Name: Sathyapoorani\n");
+scanf("%s",&name);
+printf("Email: sathyapooranikavitha@gmail.com\n");
+scanf("%s",&email);
+printf("slack_username: @sathya\n");
+scanf("%s",&slack_username);
+printf("Biostack: Genomics\n");
+scanf("%s",&biostack);
+return 0;
+}
