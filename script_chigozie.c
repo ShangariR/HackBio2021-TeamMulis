@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 int main(void)
 {
@@ -15,6 +16,9 @@ int main(void)
 
     if (twitter_len < slackusername_len){
         min_length = twitter_len;
+    }
+    else if (slackusername_len < twitter_len){
+        min_length = slackusername_len;
     }
     else{
         min_length = slackusername_len;
