@@ -19,8 +19,8 @@
 "Name:"
 "Email:"
 "Slack username: @"
-"Twitter: @ "
 "Biostack:"
+"Twitter: @ "
 "Hamming distance:"
 - For last one, calculate the output of the Hamming distance between your slack handle and twitter handle.
 - Save your script with the file name: "script_yourname".
