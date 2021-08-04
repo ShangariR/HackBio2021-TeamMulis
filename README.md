@@ -5,8 +5,9 @@
 - :desktop_computer: Hackbio official website: https://thehackbio.com/
 - 📫 Contact: contact@hackbio.com
 - :man_technologist: We are a diverse team of awesome 22 members 👩‍💻.
-
+<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragnapcu&layout=compact)
+--->
 ## Getting Started :scroll:
 ## Stage 0
 - Create Github and twitter account
@@ -17,8 +18,11 @@
 - Each person pick one of the 7 programming languages and write a script in the below format:
 "Name:"
 "Email:"
-"Slack username:"
+"Slack username: @"
+"Twitter: @ "
 "Biostack:"
+"Hamming distance:"
+- For last one, calculate the output of the Hamming distance between your slack handle and twitter handle.
 - Save your script with the file name: "script_yourname".
 - Push the script to team’s git repo **HackBio2021-TeamMulis**
 - Collaboratively as a team, develop a bash script that clones the git repo, and generates a CSV file from all the outputs of your team’s scripts.
