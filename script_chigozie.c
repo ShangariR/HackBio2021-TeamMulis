@@ -8,8 +8,7 @@ int main(void)
     char slack_username[80] = "GozieNkwocha";
     char biostack[100] = "Transcriptomics";
     char twitter[15] = "Gozi251";
-    
-	int min_length;
+    int min_length;
     int hamming_distance = 0;
     int twitter_len = strlen(twitter);
     int slackusername_len = strlen(slack_username);
