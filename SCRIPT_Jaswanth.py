@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[31]:
-
-
 ##Write a script that prints name,email,slack username (with @), biostack,twitter handle (with @) and calculate hamming distance between stack username & twitter username in that order.##
 
 name="JASWANTH D S"
@@ -28,9 +22,6 @@ for i in range(min_length):
     
 print("Name:"+name,'Email:'+email,'Stack username:'+stack_username,'Biostack:'+biostack,'Twitter username :'+twitter_handle,hamming_distance,sep= "\n")
 
-
-
-# In[ ]:
 
 
 
