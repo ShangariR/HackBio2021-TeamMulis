@@ -8,8 +8,11 @@ print("my twitter_Handle:@malavikq")
 
 string1=slack_username("@malavika")
 string2=twitter_handle("@malavikq")
+@ m a l a v i k a ("string 1")
+@ m a l a v i k q ("string 2")
 hamming distance=0
 min length =min(len(string1),len(string2))
+# i denoted as position
 for i in range(min length)
 if string1(i)!=string2(i)
 hamming distance =1
