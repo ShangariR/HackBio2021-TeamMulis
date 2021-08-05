@@ -12,5 +12,5 @@ hamming distance=0
 min length =min(len(string1),len(string2))
 for i in range(min length)
 if string1(i)!=string2(i)
-hamming distance =2
-print("hamming distance:2")
+hamming distance =1
+print("hamming distance:1")
