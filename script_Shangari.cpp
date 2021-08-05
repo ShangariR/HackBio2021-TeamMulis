@@ -14,9 +14,10 @@ int main()
 {
     cout << "My Name : Shangari. R\n";
   cout << "My email id : shangariariel5@gmail.com\n";
-  cout << "My Slack username : @Shangari\n";
+  cout << "My Slack username : @Shangari17\n";
   cout << "My Biostack : Genomics,Transcriptomics,Drug development\n";
   cout << "My Twitter Id : @Shanks__17\n";
-  cout << "My Hamming Distance : 5\n";
+  cout << "My Hamming Distance : 4\n";
+
     return 0;
 }
