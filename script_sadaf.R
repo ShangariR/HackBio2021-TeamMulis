@@ -30,6 +30,6 @@ for (i in 1:min_length){
 hamming_distance <- count
 
 
-data <- c(name, email, biostack, slack_username, twitter_handle, hamming_distance)
-cat(paste(data, collapse = ','))
+mydata <- c(name, email, biostack, slack_username, twitter_handle, hamming_distance)
+cat(paste(mydata, collapse = ','))
 
