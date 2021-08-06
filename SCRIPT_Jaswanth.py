@@ -1,4 +1,4 @@
-#!/usr/bin/env python3script
+#!/usr/bin/env python3
 
 name="JASWANTH D S"
 email="jasdevshankar@gmail.com"
