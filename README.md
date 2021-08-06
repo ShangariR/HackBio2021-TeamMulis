@@ -34,3 +34,5 @@
 - Preeti
 - Vishnupriya
 - Rajarshi
+- Gozie Nkwocha
+- Pragna Lakshmi
