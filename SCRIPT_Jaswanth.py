@@ -1,4 +1,4 @@
-##Write a script that prints name,email,slack username (with @), biostack,twitter handle (with @) and calculate hamming distance between stack username & twitter username in that order.##
+#!/usr/bin/env python3script
 
 name="JASWANTH D S"
 email="jasdevshankar@gmail.com"
@@ -8,6 +8,8 @@ twitter_handle="@DsJaswan"
 
 
 ## calculating the hamming distance between stack_username and twitter handle##
+
+#considering string1 for slack_usernmae and string2 for twitter_handle
 
 string1 = stack_username
 string2= twitter_handle
