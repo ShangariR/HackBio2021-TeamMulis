@@ -30,7 +30,7 @@
 
 ## 🤩Team Members😎
 - Ankita Banubakode
-- Sadaf
+- Sadaf Raza
 - Preeti
 - Vishnu Priya H
 - Rajarshi Mondal
