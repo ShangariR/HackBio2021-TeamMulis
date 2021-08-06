@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def hammingDist(str1, str2):
 	i = 0
 	count = 0
