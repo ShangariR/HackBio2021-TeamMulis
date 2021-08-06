@@ -42,7 +42,7 @@
 - Pankaj Choudhary
 - Shangari R
 - Malavika R
-- Jaswanth
+- Jaswanth D S
 - Sathyapoorani
 
 
