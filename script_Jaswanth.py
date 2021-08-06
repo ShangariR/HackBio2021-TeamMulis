@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 
-name="JASWANTH D S"
-email="jasdevshankar@gmail.com"
-stack_username="@Jaswanth"
-biostack="Genomics"
-twitter_handle="@DsJaswan"
+Name=("JASWANTH D S")
+Email=("jasdevshankar@gmail.com")
+Slack_username=("@Jaswanth")
+Biostack=("Genomics")
+Twitter_handle=("@DsJaswan")
+Hamming_distance=("hamming_distance")
+
 
 
 ## calculating the hamming distance between stack_username and twitter handle##
@@ -20,12 +22,6 @@ min_length = min(len(string1), len(string2))
 for i in range(min_length):
      if string1[i] != string2[i]:
         hamming_distance += 1
+        
+print("{}, {}, {}, {}, {}, {}".format(Name, Email, Slack_username, Biostack, Twitter_handle, Hamming_distance))
       
-    
-print("Name:"+name,'Email:'+email,'Stack username:'+stack_username,'Biostack:'+biostack,'Twitter username :'+twitter_handle,sep= "\n")
-print('Hamming Distance:',hamming_distance)
-
-
-
-
-
