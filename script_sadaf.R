@@ -1,4 +1,3 @@
-##Write a script that prints your name, your email, your slack username (with @) and your biostack, twitter_handle, hamming_distance in that order.##
 #!/usr/bin/env Rscript
 name <- "Sadaf Raza"
 email <- "sadafraza48@gmail.com"
