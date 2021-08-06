@@ -12,12 +12,10 @@ using namespace std;
 
 int main()
 {
-    cout << "My Name : Shangari. R\n";
-  cout << "My email id : shangariariel5@gmail.com\n";
-  cout << "My Slack username : @Shangari17\n";
-  cout << "My Biostack : Genomics,Transcriptomics,Drug development\n";
-  cout << "My Twitter Id : @Shanks__17\n";
-  cout << "My Hamming Distance : 4\n";
-
-    return 0;
+	cout << "Shangari. R,";
+	cout << "shangariariel5@gmail.com,";
+	cout << "@Shangari17,";
+	cout << "Genomics,Transcriptomics,Drug development,";
+  cout << "@Shanks__17,";
+  cout << "4\n";
 }
