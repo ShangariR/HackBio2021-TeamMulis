@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 name="Nasrin Parvin"
 email="p.nasrin520@gmail.com"
 slack_username="@Nasrin"
