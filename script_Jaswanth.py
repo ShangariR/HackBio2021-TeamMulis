@@ -22,7 +22,8 @@ for i in range(min_length):
         hamming_distance += 1
       
     
-print("Name:"+name,'Email:'+email,'Stack username:'+stack_username,'Biostack:'+biostack,'Twitter username :'+twitter_handle,hamming_distance,sep= "\n")
+print("Name:"+name,'Email:'+email,'Stack username:'+stack_username,'Biostack:'+biostack,'Twitter username :'+twitter_handle,sep= "\n")
+print('Hamming Distance:',hamming_distance)
 
 
 
