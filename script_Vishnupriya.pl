@@ -1,8 +1,12 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 use strict;
+use warnings;
 
-print "My email id : vishna2000\@gmail.com\n";
-print "My slack_username : \@Vishnupriya\n";
-print "My Biostack : Genomics,Transcriptomics,Drug development\n";
-print "My twitter_handle : \@Vishnup7734\n";
-print "Hamming_distance : 4" ;
+ my @Name = 'Vishnu Priya.H';
+ my @emailid = 'vishna2000@gmail.com';
+ my @slack_username = '@Vishnupriya';
+ my @Biostack = 'Genomics,Transcriptomics and Drug development';
+ my @twitter_handle = '@Vishnup7734';
+ my @hamming_distance = '4' ;
+ 
+ print " @Name, @emailid, @slack_username, @Biostack, @twitter_handle, @hamming_distance";
