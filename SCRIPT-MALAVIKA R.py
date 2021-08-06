@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 print("my name:R.Malavika")
 print("my email id:malavikapunitha0211@gmail.com")
 print("my slack_sername:@malavika")
