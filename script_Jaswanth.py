@@ -23,5 +23,5 @@ for i in range(min_length):
      if string1[i] != string2[i]:
         hamming_distance += 1
         
-print("{}, {}, {}, {}, {}, {}".format(Name, Email, Slack_username, Biostack, Twitter_handle, Hamming_distance))
+print("{}, {}, {}, {}, {}, {}".format(Name, Email, Slack_username, Biostack, Twitter_handle, hamming_distance))
       
