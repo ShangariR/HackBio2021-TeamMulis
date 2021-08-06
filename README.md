@@ -28,3 +28,9 @@
 - Collaboratively as a team, develop a bash script that clones the git repo, and generates a CSV file from all the outputs of your team’s scripts.
 - Submit your team’s *_GitHub link to only_ t*he bash script 
 
+## Team Members
+Ankita
+Sadaf
+Preeti
+Vishnupriya
+Rajarshi
