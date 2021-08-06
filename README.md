@@ -32,7 +32,7 @@
 - Ankita Banubakode
 - Sadaf
 - Preeti
-- Vishnupriya
+- Vishnu Priya H
 - Rajarshi Mondal
 - Chigozie Nkwocha
 - Pragna Lakshmi
@@ -40,4 +40,4 @@
 - Nasrin Parvin
 - Muneeba
 - Pankaj Choudhary
-- 
+- Shangari R
