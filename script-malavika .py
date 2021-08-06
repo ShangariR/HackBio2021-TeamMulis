@@ -16,4 +16,4 @@ min_length =min(len(string1),len(string2))
 for i in range(min length):
 if string1(i)!=string2(i):
 Hamming_distance += 1
-print("{}, {}, {}, {}, {}, {}, {}".format(Name,Mail,Slack_Username,Biostack,Twitter_handle,hamming_distance))`
+print("{}, {}, {}, {}, {}, {}, {}".format(Name, Mail, Slack_Username, Biostack, Twitter_handle, hamming_distance))
