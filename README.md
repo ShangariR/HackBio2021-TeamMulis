@@ -29,8 +29,8 @@
 - Submit your team’s *_GitHub link to only_ t*he bash script 
 
 ## Team Members
-Ankita
-Sadaf
-Preeti
-Vishnupriya
-Rajarshi
+- Ankita
+- Sadaf
+- Preeti
+- Vishnupriya
+- Rajarshi
