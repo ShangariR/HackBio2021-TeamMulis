@@ -13,8 +13,8 @@ Hamming_distance=("hamming_distance")
 
 #considering string1 for slack_usernmae and string2 for twitter_handle
 
-string1 = stack_username
-string2= twitter_handle
+string1 = Slack_username
+string2= Twitter_handle
 hamming_distance = 0
 
 min_length = min(len(string1), len(string2))
