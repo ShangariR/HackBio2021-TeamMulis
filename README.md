@@ -1,6 +1,6 @@
 # :stars: **HackBio2021-Team Mulis** :stars:
    ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pragnapcu.HackBio2021-TeamMulis)
-- 👋 Welcome, This is Team Mulis for Hackbio 2021 virtual internship.
+- 👋<img src="https://raw.githubusercontent.com/MartinHeinz/master/wave.gif" width="30px"> Welcome, This is Team Mulis for Hackbio 2021 virtual internship.
 - 🌱 About: Hackbio Internship is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and      computational biology skills.
 - :desktop_computer: Hackbio official website: https://thehackbio.com/
 - 📫 Contact: contact@hackbio.com
