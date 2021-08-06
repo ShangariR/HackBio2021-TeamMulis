@@ -1,20 +1,19 @@
 #!/usr/bin/env python3
-print("my name:R.Malavika")
-print("my email id:malavikapunitha0211@gmail.com")
-print("my slack_sername:@malavika")
-print("my biostack:genomics,data science,software development,drug development,vaccines development")
-print("my twitter_Handle:@malavikq")
+name="R.Malavika"
+email=" malavikapunitha0211@gmail.com"
+slack_username="@malavika"
+biostack="genomics,data science,software development,drug development,vaccines development"
+twitter_Handle="@malavikq"
 
-#calculating the hamming distance between slack username and twitter username
+#calculating the hamming_distance between slack_username and twitter_handle
 
-string1=slack_username("@malavika")
-string2=twitter_handle("@malavikq")
-@ m a l a v i k a ("string 1")
-@ m a l a v i k q ("string 2")
-hamming distance=0
-min length =min(len(string1),len(string2))
-# i denoted as position
-for i in range(min length)
-if string1(i)!=string2(i)
-hamming distance =1
-print("hamming distance:1")
+string1=slack_username
+string2=twitter_handle
+
+Hamming_distance = 0
+min_length =min(len(string1),len(string2))
+
+for i in range(min length):
+if string1(i)!=string2(i):
+Hamming_distance += 1
+print("{}, {}, {}, {}, {}, {}, {}".format(Name,Mail,Slack_Username,Biostack,Twitter_handle,hamming_distance))`
