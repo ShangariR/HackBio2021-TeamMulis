@@ -29,10 +29,15 @@
 - Submit your team’s *_GitHub link to only_ t*he bash script 
 
 ## Team Members
-- Ankita
+- Ankita Banubakode
 - Sadaf
 - Preeti
 - Vishnupriya
-- Rajarshi
-- Gozie Nkwocha
+- Rajarshi Mondal
+- Chigozie Nkwocha
 - Pragna Lakshmi
+- Sowmiya Kathir
+- Nasrin Parvin
+- Muneeba
+- Pankaj Choudhary
+- 
