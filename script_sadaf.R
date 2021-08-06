@@ -29,6 +29,9 @@ for (i in 1:min_length){
 hamming_distance <- count
 
 
-mydata <- c(name, email, biostack, slack_username, twitter_handle, hamming_distance)
-cat(paste(mydata, collapse = ','))
+data <- data.frame(Information=c(name, email, slack_username, biostack, twitter_handle, hamming_distance))
+rownames(data) <- c('NAME: ', 'E-MAIL: ', 'SLACK USERNAME: ', 'BIOSTACK: ', 'TWITTER HANDLE:','HAMMING DISTANCE:')
+
+colnames(data) <- NULL
+print(data)
 
