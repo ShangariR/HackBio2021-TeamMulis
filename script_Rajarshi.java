@@ -1,5 +1,6 @@
 //Write a script that prints name,email,slack username (with @), biostack,twitter handle (with @) and calculate hamming distance between stack username & twitter username in that order.
-
+#!/opt/java/jdk-11/bin/java --source 11
+ 
 public class script_Rajarshi
 {
  public static void main(String args[]){
