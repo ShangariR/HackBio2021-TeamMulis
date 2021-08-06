@@ -14,7 +14,7 @@ str2 = "pretty"
 Name=("Preeti")
 Email=("contactpreetiat3@gmail.com")
 Slack_username=("@Preeti")
-Biostack=("Genomics and Transciptomics")
+Biostack=("Genomics and Transcriptomics")
 Twitter_handle=("@pretty")
 Hamming_distance=(hammingDist)
 
