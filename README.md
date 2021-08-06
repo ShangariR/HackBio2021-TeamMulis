@@ -18,13 +18,9 @@
 - Introduce yourself.:scientist:
 - Add a comprehensive readme.md here. :raising_hand:
 - Each person pick one of the 7 programming languages and write a script in the below format:
-
-"Name:"
-"Email:"
-"Slack username: @"
-"Biostack:"
-"Twitter: @ "
-"Hamming distance:"
+```bash
+     "Name:", "Email:", "Slack username: @" , "Biostack:" , "Twitter: @" , "Hamming distance:"
+```
 - For last one, calculate the output of the Hamming distance between your slack handle and twitter handle.
 - Save your script with the file name: "script_yourname".
 - Push the script to team’s git repo **HackBio2021-TeamMulis**
