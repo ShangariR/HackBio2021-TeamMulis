@@ -15,7 +15,7 @@ int main()
 	cout << "Shangari. R,";
 	cout << "shangariariel5@gmail.com,";
 	cout << "@Shangari17,";
-	cout << "Genomics,Transcriptomics,Drug development,";
+	cout << "Genomics and Transcriptomics and Drug development,";
   cout << "@Shanks__17,";
   cout << "4\n";
 }
